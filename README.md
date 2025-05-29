@@ -28,7 +28,7 @@ An AI-powered debugging framework that detects, explains, and corrects errors in
 
 ## 📄 Full Documentation
 
-For the complete explanation of the system architecture, design choices, and evaluation, see the (https://drive.google.com/file/d/1QHK9Vb_dVFjpVhhIkhldTXznSCsdRePk/view?usp=sharing).
+For the complete explanation of the system architecture, design choices, and evaluation, see the (https://drive.google.com/file/d/1TrJWoY8ANVAX3UlTV11aeNCdIG7PXB4I/view?usp=sharing).
 
 ## 🛠️ Getting Started
 
