@@ -18,11 +18,11 @@ QUIXBUGS_PROGRAMS = [
     "breadth_first_search", "depth_first_search", "detect_cycle",
     "find_first_in_sorted", "find_in_sorted", "gcd", "get_factors",
     "hanoi", "is_valid_parenthesization", "kheapsort", "knapsack",
-    "kth", "levenshtein", "lis", "longest_common_subsequence",
+    "kth", "levenshtein", "lis", "longest_common_subsequence", "lcs_lenghth",
     "max_sublist_sum", "mergesort", "next_palindrome", "next_permutation",
     "pascal", "possible_change", "powerset", "quicksort", "reverse_linked_list",
     "rpn_eval", "shortest_path_length", "shortest_path_lengths", "sieve",
-    "sqrt", "subsequences", "substring", "surrogate_count", "to_base",
+    "sqrt", "subsequences", "to_base",
     "topological_ordering", "wrap", "bitcount", "bucketsort", "flatten",
     "shunting_yard", "node"
 ]
